@@ -1,0 +1,25 @@
+[{
+
+"text":"dir1",
+"id": "dir1",
+"leaf":false,
+children:[{
+"text":"leaf1",
+"id": "8af3173f5c4f432fbb5ec3efaa31b812",
+"leaf":true
+},
+{
+"text" : "leaf2",
+"id": "e1117daf82ce405c90bef4c34d50f37a",
+"leaf":true
+}]
+},
+{
+"text": "dir2",
+"id": "dir2",
+"leaf": false,
+children:[{
+"text": "leaf3",
+"id": "02f679484c3a4896818e16a1fa8f1619"
+}]
+}]

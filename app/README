@@ -1,0 +1,23 @@
+Events and Application Lifetimes
+
+// EVENT:
+// ObjectInstanceCreated <object id> <store name>
+// This means a class has been delted
+// EVENT:
+// ObjectInstanceRemoved <object id> <store name>
+// This means a class has been delted
+// EVENT:
+// ObjectInstanceChanged <object id> <store name>
+// This means an instance has changed
+// EVENT:
+// ObjectClassCreated <object id> <store name>
+// This means a class has been created
+// EVENT:
+// ObjectClassRemoved <object id> <store name>
+// This means a class has been delted
+
+
+
+DoneLoadingObject
+
+There are several events, that tell you about the underlying data, best grep the source for EVENT
